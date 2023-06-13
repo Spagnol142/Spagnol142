@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
  😊 -- Fico feliz em te ver por aqui! -- 😊<br><br>👋 I Olá, me chamo Deivid, estudante de Ciência da Computação e entusiasta do desenvolvimento Full Stack Java. <br><br>🌟 I Estou sempre em busca de conhecimento e aperfeiçoamento, seja através da minha formação acadêmica, pela EBAC, ou por meio de plataformas de ensino como a Rocketseat e a DIO. <br><br>🚀 I A cada dia, minha paixão pela área só aumenta. Vamos em frente, rumo ao infinito, sem olhar para trás! 💻✨"
 
 
